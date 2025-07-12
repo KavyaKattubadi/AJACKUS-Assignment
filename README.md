@@ -9,12 +9,13 @@
 1. Clone the repository:
    ```bash
    https://github.com/KavyaKattubadi/AJACKUS-Assignment.git
+   
 Navigate into the project folder:
 
 bash
-Copy
-Edit
 cd AJACKUS-Assignment
+
+
 Open index.html in your browser directly.
 
 No server setup is required.
@@ -22,14 +23,13 @@ No server setup is required.
 The app runs completely in the browser using local data and vanilla JavaScript.
 
 📁 Project Structure
-graphql
-Copy
-Edit
+
 AJACKUS-Assignment/
 ├── index.html               # Main HTML file
 ├── style.css                # CSS styles for layout and responsiveness
 ├── script.js                # Main JavaScript logic (CRUD + filtering + pagination)
 ├── README.md                # Project overview and documentation
+
 
 🧩 Features Implemented
 ✅ Dashboard Page
@@ -89,12 +89,14 @@ Ensuring the form modal opens and closes only on button actions.
 
 Designing a neat, clean UI that follows the assignment reference image.
 
+
 🔧 What I’d Improve with More Time
 Add animation to modal and filter toggle.
 
 Enhance error validation with red borders and inline messages.
 
 Implement persistent storage using localStorage or mock APIs.
+
 
 ✅ Assignment Checklist
  Dashboard with employee cards
