@@ -12,8 +12,10 @@
    
 Navigate into the project folder:
 
-bash
-cd AJACKUS-Assignment
+bash  cd 
+
+
+AJACKUS-Assignment
 
 
 Open index.html in your browser directly.
@@ -32,6 +34,7 @@ AJACKUS-Assignment/
 
 
 🧩 Features Implemented
+
 ✅ Dashboard Page
 Displays a list of employees in a clean card layout.
 
@@ -40,6 +43,7 @@ Each employee shows: First Name, Last Name, Email, Department, Role.
 Buttons to Edit and Delete each employee.
 
 ✅ Add/Edit Employee Form
+
 Modal form to add a new employee or edit existing one.
 
 Validations included for required fields and email format.
@@ -47,6 +51,7 @@ Validations included for required fields and email format.
 Form appears only when clicking "Add Employee" or "Edit".
 
 ✅ Filter / Sort / Search
+
 🔍 Search bar filters by name or email.
 
 🎯 Filter panel (toggleable) filters by First Name, Department, Role.
@@ -73,6 +78,7 @@ Optimized for desktop, tablet, and mobile.
 
 
 📑 Technologies Used
+
 HTML5
 
 CSS3
@@ -82,6 +88,7 @@ JavaScript (Vanilla)
 (Freemarker simulation done using plain HTML and local JS array.)
 
 💡 Reflection
+
 🧠 Challenges Faced
 Integrating search, sort, filter, and pagination so that they work together correctly.
 
@@ -91,6 +98,7 @@ Designing a neat, clean UI that follows the assignment reference image.
 
 
 🔧 What I’d Improve with More Time
+
 Add animation to modal and filter toggle.
 
 Enhance error validation with red borders and inline messages.
@@ -99,6 +107,7 @@ Implement persistent storage using localStorage or mock APIs.
 
 
 ✅ Assignment Checklist
+
  Dashboard with employee cards
 
  Add/Edit employee modal form with validation
@@ -121,7 +130,6 @@ Implement persistent storage using localStorage or mock APIs.
 
  Live site: https://kavyakattubadi.ccbp.tech/
 
-🙌 Thank You
-Thanks for reviewing my submission. Looking forward to your feedback!
+🙌 Thanks for reviewing my submission. Looking forward to your feedback!
 
 
